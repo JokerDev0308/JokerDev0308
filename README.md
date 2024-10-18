@@ -7,7 +7,7 @@
 I am a passionate and adaptable developer with over a decade of experience in building innovative applications and websites. I specialize in **frontend development**, **AI solutions**, and **mobile app development**, thriving on solving complex challenges through technology. I am committed to continuous learning and delivering high-quality solutions that exceed client expectations.
 
 ---
-
+<img src="240_F_947347778_jo8mYX5AkGqrCSvm2IpMMRp1zWAfeFOv.jpg">
 ## Skills
 
 - **Programming Languages:** HTML, CSS, JavaScript, Python, PHP, Swift, Java
