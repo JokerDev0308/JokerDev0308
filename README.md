@@ -18,7 +18,7 @@ I am a passionate and adaptable developer with over a decade of experience in bu
 - **Networking:** RESTful APIs, GraphQL
 
 ---
-
+<!--
 ## Work Experience
 
 ### Freelance Developer
@@ -65,31 +65,32 @@ I am a passionate and adaptable developer with over a decade of experience in bu
 ### [Project Name]
 - **Description:** Brief description of the project, its purpose, and your role.
 - **Technologies Used:** List the technologies, frameworks, and tools used.
-<!-- - **Link:** [GitHub Repository URL or Live Demo URL] -->
+- - **Link:** [GitHub Repository URL or Live Demo URL] 
 
 ### [Project Name]
 - **Description:** Brief description of the project, its purpose, and your role.
 - **Technologies Used:** List the technologies, frameworks, and tools used.
-<!-- - **Link:** [GitHub Repository URL or Live Demo URL] -->
+- **Link:** [GitHub Repository URL or Live Demo URL] 
 
 ### [Project Name]
 - **Description:** Brief description of the project, its purpose, and your role.
 - **Technologies Used:** List the technologies, frameworks, and tools used.
-<!-- - **Link:** [GitHub Repository URL or Live Demo URL] -->
+ - **Link:** [GitHub Repository URL or Live Demo URL]
 
 (Continue adding projects as needed)
-
+ 
 ---
 
 ## Testimonials
 *(Optional: Include any testimonials from clients or colleagues that speak to your skills and work ethic.)*
 
 ---
-
+-->
 ## Contact Me
 
 Feel free to reach out for collaboration, freelance opportunities, or just to connect!
-
+ <!--
 - [Email]  
 - [LinkedIn Profile URL]  
 - [GitHub Profile URL]
+ -->
