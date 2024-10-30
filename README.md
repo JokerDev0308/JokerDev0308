@@ -15,8 +15,8 @@ I am a passionate and adaptable developer with over a decade of experience in bu
 
 ## Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript, Python, PHP, Swift, Java
-- **Frameworks:** React, Redux, Node.js, Express.js, React Native, TensorFlow, Keras
+- **Programming Languages:** HTML, CSS, JavaScript, Python, PHP, C#, Asp.net, dart, Swift, Java
+- **Frameworks:** React, Redux, Node.js, Express.js, Vue.js, Angular, Laravel, WordPress, CI, Next.js, Nuxt.js, Asp.net MVC Core, Flutter, FlutterFlow,  React Native, DJango, Machine Learning, TensorFlow, Keras
 - **Databases:** MySQL, MongoDB, PostgreSQL, Firebase
 - **Tools:** Git, Docker, Postman, JIRA, Visual Studio Code, Xcode, Android Studio
 - **Operating Systems:** Windows, macOS, Linux
